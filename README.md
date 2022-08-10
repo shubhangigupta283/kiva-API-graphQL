@@ -1,4 +1,4 @@
-###Steps to run :
+### Steps to run :
 
 1. pip install requests
 
@@ -6,6 +6,6 @@
 
 3. python kivaTeamData.py
 
-###Output :
+### Output :
 
 output.csv will be generated at the same location where the .py file is saved
