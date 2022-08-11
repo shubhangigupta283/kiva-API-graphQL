@@ -1,5 +1,3 @@
-#### Fetch data from kiva-api using GraphQL
-
 ### Steps to run :
 
 1. pip install requests
